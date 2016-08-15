@@ -6,6 +6,6 @@ public class AssignmentOperator {
     System.out.println(x+y*2);
     System.out.println(x-y+2);
     System.out.println((x+y)*2);
-    System.out.println(y/x);
+    System.out.println(y%x);
 	}
 }
